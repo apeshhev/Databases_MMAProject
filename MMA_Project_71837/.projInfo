@@ -1,0 +1,7 @@
+#Sat Jan 02 22:12:47 EET 2021
+generateSchema=false
+ConnectionName=SAMPLE
+useridCurrentSchema=false
+currentPath=SYSIBM,SYSFUN,SYSPROC,SYSIBMADM,DB2ADMIN
+currentSchema=DB2ADMIN
+ProjectAnnotation=SAMPLE\:jdbc\:db2\://62.44.108.24\:50000/SAMPLE\:retrieveMessagesFromServerOnGetMessage\=true;
